@@ -16,9 +16,7 @@ class Config():
   SUDO_USERS = list(set(SUDO_USERS))
 
 class Messages():
-      HELP_MSG = [
-        "I cant help you\n**Devloped By @geronimo1234**"
-      ]
+      HELP_MSG = "I cant help you\n**Devloped By @geronimo1234**"
       SC_MSG = "**Hey [{}](tg://user?id={})**\n click on below👇 button to get my source code👇 "
 
       START_MSG = "**Hey [{}](tg://user?id={})**\nI am Denver\nI only work in @all_super_movies ."
