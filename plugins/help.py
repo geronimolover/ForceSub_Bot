@@ -42,7 +42,7 @@ def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
+                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/free_music123"),
                            InlineKeyboardButton("Support Group", url="https://t.me/all_super_movies")
                       ],
                      [
